@@ -47,7 +47,7 @@ Nếu không tìm thấy kết quả, hãy cài đặt WebView2 Runtime từ tra
 ## 🏠 Cài đặt
 
 1. Cài đặt **WebView2 Runtime** nếu máy chưa có.
-2. Tải phiên bản **IOEAuto Authentication** mới nhất tại **GitHub Releases**.
+2. Tải phiên bản **IOEAuto Authentication** mới nhất tại **[GitHub Releases](https://github.com/giauydev/ioeauto-authentication/releases)**.
 3. Chạy ứng dụng lần đầu.
 
 > **Lưu ý:** Chỉ cần mở ứng dụng một lần duy nhất. Nếu bạn di chuyển ứng dụng sang đường dẫn khác, hãy mở ứng dụng một lần nữa.
