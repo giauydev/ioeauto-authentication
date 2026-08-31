@@ -19,7 +19,7 @@
 
 ### Kiểm tra nhanh WebView2 Runtime đã được cài đặt chưa
 
-Mở **CMD** và chạy:
+Mở **CMD (Command Prompt/Terminal/Windows PowerShell)** và chạy:
 
 ```cmd
 reg query "HKLM\SOFTWARE\WOW6432Node\Microsoft\EdgeUpdate\Clients" /s /f "WebView2"
