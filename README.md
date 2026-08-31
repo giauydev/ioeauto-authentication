@@ -12,7 +12,7 @@
 Ứng dụng yêu cầu **Microsoft Edge WebView2 Runtime** để hoạt động.
 👉 **[Tải Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/microsoft-edge/webview2/)**
 
-Hệ Điều Hành: **Windows 7,8,11**
+Hệ Điều Hành: **Windows 7,8,10,11 (Windows 10,11 Recommended)**
 
 ## 🚀 Cài đặt
 
